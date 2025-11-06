@@ -1,4 +1,4 @@
-React Counter App
+React Counter App - 
 A simple and clean counter application built with React.js and Tailwind.CSS
 
 How to run the project:
